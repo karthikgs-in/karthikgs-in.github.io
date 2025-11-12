@@ -16,7 +16,7 @@
 
 ---
 
-### 🏺 The Indus Script Project (*IM77 – Roja Muthiah Research Library*)
+### 🏺 The Indus Script Project (IM77) – *Roja Muthiah Research Library*
 - Built [**indusscript.in**](https://indusscript.in/), a **Flutter/Dart Progressive Web App (PWA)** for the *Indus Script Digital Archive*.  
 - Integrated **Firebase OAuth** for authentication and **Firestore** for structured Indus text data storage.  
 - Created a **SQLite → JSON → Firestore** ingestion pipeline using **Python** and **Node.js** via **Google Cloud Storage**.  
@@ -51,10 +51,10 @@
 - Capstone emerged out of participation in **[Kaggle UBC-OCEAN](https://www.kaggle.com/competitions/UBC-OCEAN/)** competition.
 - 🩻 [**Disease Prediction from Chest X-rays**](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
   - **Placed Second** in hackathon organized by Impact Analytics and conducted by Great Learning. 
-  - Hybrid **CNN + Tabular data** solution using **PyTorch**.     
+  - Hybrid **CNN + Tabular data** solution using **Keras/Tensorflow**.     
 
 - 🤖 [**LLM Classification Finetuning**](https://www.kaggle.com/code/skarthikguruswamy/intfloat-ml-e5-large-inf)  
-  - Fine-tuned **intfloat/e5-large** for text classification.  
+  - Fine-tuned **[intfloat/e5-large](https://huggingface.co/intfloat/multilingual-e5-large)** for text classification.  
   - Ranked **#74** on Kaggle leaderboard *(as of Nov 2025)*.  
 
 - 🎵 **Playground Series — [Predicting the Beats-per-Minute of Songs](https://www.kaggle.com/code/skarthikguruswamy/notebook7482fb8650)**  
