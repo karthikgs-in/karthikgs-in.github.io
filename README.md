@@ -1,87 +1,47 @@
-👋 Hi, I'm Karthik GS
+# 👋 Hi, I'm Karthik GS  
+M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
+##    Professional Work
+- Data Science Consultant (Brain Imaging Team - Remote), University of Calgary
+  - Developing course chapters and code for undergraduate Biomedical Data Analytics course and book (Ucalgary BMEN415)
+  - Machine learning workflows (data preprocessing, dimensionality reduction, exploration and visualization)
+  - Machine learning for tabular biomedical data (supervised classification, regression models, linear, tree and ensemble models)
+  - Basics of neural networks 
+  - Deep learning for biomedical images (CNNs for medical imaging, GANs for synthetic image generation)
+  - Investigation of Generative AI (ChatGPT) for course plan and assessment preparation
+  - Webpage, LATEX document (resumes, academic papers) updation, maintenance of bibliography, python scripts for file processing.
+ 
+- The Indus Script Project (IM77) - Roja Muthiah Research library
+  - Built [indusscript.in](https://indusscript.in/), a Flutter/Dart Progressive Web App for the Indus script digital archive.
+  - Integrated Firebase OAuth for authentication and Firestore for structured Indus text data storage.
+  - Created a SQLite → JSON → Firestore data ingestion pipeline using Python and Node.js via Google Cloud Storage.
+Demonstrated end-to-end expertise in Flutter PWA design, Firebase integration, and cloud data workflows.
 
-M.Tech in AI & Data Science | CGPA 9.89 | Focus: Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI)
+- Library Data Analytics - Roja Muthiah Research Library
+  - Processed and merged Excel library datasets using pandas, openpyxl, and itertools, cleaning and standardizing key fields.
+  - Applied textdistance Jaccard normalized similarity to cluster and identify near-duplicate or related records.
+  - Enriched and synchronized metadata between unprocessed and clustered datasets, then exported cleaned, clustered, and unclustered outputs to Excel.
 
-🧭 Professional Work
-🧠 Data Science Consultant — Brain Imaging Team, University of Calgary (Remote)
+##    Capstone Project (MTech)
+- 🧠 [Attention-based MIL (UBC-OCEAN)](https://github.com/karthikgs-in/attention-mil-ubc-ocean)  
+  Research project | Presented at ICMBNT 2025
+  - 1️⃣ Private test score matched the top 10 % of the leaderboard.
+  - 2️⃣ Achieved ~75 % improvement over baseline (Private 0.24 → 0.42).
+  - 3️⃣ Efficient Lunit DINO ViT + ABMIL pipeline with PyVips tile processing enabled fast training (~1 s/epoch) and significant inference speed-up.
 
-Developing course chapters and Python code for undergraduate Biomedical Data Analytics course (UCalgary BMEN415).
+##  Competitions/Hackathons
+- 🧬 [Disease Prediction from Chest X-rays](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
+  Hybrid CNN + Tabular data | PyTorch | Hackathon Finalist
+- Capstone emerged out of participation in Kaggle UBC-OCEAN competition.
+  - A baseline with InceptionV3 was submitted in time for the competition deadline.
+  - Thesis matched top 10% leaderboard on generalization (balanced accuracy).
+- [LLM Classification Finetuning](https://www.kaggle.com/code/skarthikguruswamy/intfloat-ml-e5-large-inf))
+  -  Ranked 74 on leaderboard (As of 12th Nov, 2025)
+-  Playground Series - [Predicting the Beats-per-Minute of Songs](https://www.kaggle.com/code/skarthikguruswamy/notebook7482fb8650))
+    -  Built a stacked XGBoost Regressor to predict BPM
 
-Building machine learning workflows for data preprocessing, dimensionality reduction, and visualization.
-
-Applied supervised learning (classification, regression) using linear, tree-based, and ensemble models.
-
-Introduced students to neural networks and deep learning (CNNs for medical imaging, GANs for synthetic data generation).
-
-Investigating Generative AI (ChatGPT) for course design and assessment preparation.
-
-Managing webpage, LaTeX documentation (resumes, papers), bibliography, and Python automation scripts for file processing.
-
-🏺 The Indus Script Project (IM77 – Roja Muthiah Research Library)
-
-Built indusscript.in
- — a Flutter/Dart Progressive Web App (PWA) for the Indus Script Digital Archive.
-
-Integrated Firebase OAuth for authentication and Firestore for structured Indus text data storage.
-
-Created an end-to-end SQLite → JSON → Firestore ingestion pipeline using Python and Node.js via Google Cloud Storage.
-
-Demonstrated full-stack expertise across Flutter PWA design, Firebase integration, and cloud-based data workflows.
-
-📚 Library Data Analytics — Roja Muthiah Research Library
-
-Processed and merged Excel datasets using pandas, openpyxl, and itertools, performing cleaning and normalization.
-
-Applied textdistance (Jaccard similarity) for clustering near-duplicate or related records.
-
-Enriched and synchronized metadata, exporting both clustered and unclustered Excel outputs for archival consistency.
-
-🎓 Capstone Project (M.Tech)
-🧬 Attention-based MIL for UBC-OCEAN Dataset
-
-Research Project | Presented at ICMBNT 2025
-
-🏆 Private test score matched top 10% of leaderboard.
-
-🚀 ~75% improvement over baseline (Private 0.24 → 0.42).
-
-⚙️ Built an Efficient Lunit DINO ViT + ABMIL pipeline with PyVips tile processing — enabling ~1 s/epoch training and fast inference.
-
-🧩 Competitions & Hackathons
-
-🩻 Disease Prediction from Chest X-rays
-
-Hybrid CNN + Tabular data | PyTorch | Hackathon Finalist
-
-Capstone evolved from Kaggle UBC-OCEAN participation; baseline used InceptionV3; achieved top 10% generalization.
-
-🧠 LLM Classification Finetuning
-
-Used intfloat/e5-large | Ranked #74 on leaderboard (as of Nov 2025).
-
-🎵 Playground Series – Predicting Beats-per-Minute of Songs
-
-Built a stacked XGBoost regressor to predict BPM from song metadata.
-
-📘 Selected Course Projects (M.Tech)
-💾 Big Data for Machine Learning
-
-Worked hands-on with distributed data frameworks — HDFS, MapReduce, SparkSQL/PySpark, Hive, and MongoDB.
-
-Implemented data pipelines via Sqoop (AWS RDS) and Databricks notebooks using DBFS for cluster orchestration and export.
-
-📊 Data Visualization — Billionaires Dashboard
-
-Designed interactive Tableau dashboards visualizing Forbes billionaire data (India vs World).
-
-Compared net worth, industry, and demographics; explored self-made trends using calculated fields, filters, and story-driven design.
-
-🌍 Data Visualization — WHO Life Expectancy Dashboard
-
-Built an interactive Tableau dashboard to analyze health, economic, and social indicators influencing life expectancy.
-
-Visualized multi-variable trends across countries and years to highlight disparities between developing and developed nations.
-
-🧠 Tech Stack
-
-Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Scikit-learn • PyTorch • TensorFlow • PySpark • Databricks • Firebase • Firestore • Flutter • Node.js • Tableau • LaTeX • PyVips
+## 🎓 Course Projects (MTech)
+ - Big Data for Machine Learning - practical familiarity with distributed data processing (HDFS, MapReduce, SparkSQL/PySpark), structured storage (Hive), data movement (Sqoop via AWS RDS), and NoSQL operations (MongoDB). Worked hands-on with Databricks notebooks and DBFS for Spark cluster setup, AWS-compatible workflows, and data export.
+ - Data Visualization - Billionaires Dashboard
+   - Built interactive Tableau dashboards visualizing Forbes billionaire data, comparing India vs world by net worth, industry, and demographics. Derived insights on wealth distribution, self-made status, and industry dominance through calculated fields, filters, and story-driven visual design.
+- Data Visualization - [WHO Life Expectancy dashboard](https://public.tableau.com/views/LifeExpectancy_17263939230530/LifeExpectancydashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - Developed an interactive Tableau dashboard using WHO life expectancy data to explore the impact of health, economic, and social indicators. Integrated multi-variable trends across countries and years to highlight longevity disparities between developing and developed nations.
