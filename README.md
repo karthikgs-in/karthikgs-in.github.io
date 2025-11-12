@@ -31,7 +31,7 @@ Demonstrated end-to-end expertise in Flutter PWA design, Firebase integration, a
   - Thesis matched top 10% leaderboard on generalization (balanced accuracy).
 - [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning/)
   -  Ranked 74 on leaderboard (As of 12th Nov, 2025)
--  [Predicting the Beats-per-Minute of Songs](https://www.kaggle.com/competitions/playground-series-s5e9/leaderboard)
+-  Playground Series - [Predicting the Beats-per-Minute of Songs](https://www.kaggle.com/competitions/playground-series-s5e9/leaderboard)
     -  Built a stacked XGBoost Regressor to predict BPM
 
 ## 🎓 Course Projects (MTech)
