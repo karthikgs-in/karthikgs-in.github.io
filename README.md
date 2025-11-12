@@ -8,4 +8,4 @@ M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
   Hybrid CNN + Tabular data | PyTorch | Hackathon Finalist
 
 ## 🎓 Course Projects
- - Big Data for Machine Learning (Course Project) – Gained practical familiarity with distributed data processing (HDFS, MapReduce, SparkSQL/PySpark), structured storage (Hive), data movement (Sqoop via AWS RDS), and NoSQL operations (MongoDB). Worked hands-on with Databricks notebooks and DBFS for Spark cluster setup, AWS-compatible workflows, and data export.
+ - Big Data for Machine Learning - practical familiarity with distributed data processing (HDFS, MapReduce, SparkSQL/PySpark), structured storage (Hive), data movement (Sqoop via AWS RDS), and NoSQL operations (MongoDB). Worked hands-on with Databricks notebooks and DBFS for Spark cluster setup, AWS-compatible workflows, and data export.
