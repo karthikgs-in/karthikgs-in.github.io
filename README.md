@@ -1,8 +1,19 @@
 # 👋 Hi, I'm Karthik GS  
 M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
+##    Professional Work
+- The Indus Script Project (IM77) - Roja Muthiah Research library
+  - Built indusscript.in, a Flutter/Dart Progressive Web App for the Indus script digital archive.
+  - Integrated Firebase OAuth for authentication and Firestore for structured Indus text data storage.
+  - Created a SQLite → JSON → Firestore data ingestion pipeline using Python and Node.js via Google Cloud Storage.
+Demonstrated end-to-end expertise in Flutter PWA design, Firebase integration, and cloud data workflows.
+
 ##    Capstone Project
 - 🧠 [Attention-based MIL (UBC-OCEAN)](https://github.com/karthikgs-in/attention-mil-ubc-ocean)  
   Research project | Presented at ICMBNT 2025
+  1️⃣ Private test score matched the top 10 % of the leaderboard.
+  2️⃣ Achieved ~75 % improvement over baseline (Private 0.24 → 0.42).
+  3️⃣ Efficient Lunit DINO ViT + ABMIL pipeline with PyVips tile processing enabled fast training (~1 s/epoch) and significant inference speed-up.
+
 ##  Competitions/Hackathons
 - 🧬 [Disease Prediction from Chest X-rays](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
   Hybrid CNN + Tabular data | PyTorch | Hackathon Finalist
