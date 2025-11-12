@@ -50,8 +50,8 @@
 ## 🧩 **Competitions & Hackathons**
 - Capstone emerged out of participation in **[Kaggle UBC-OCEAN](https://www.kaggle.com/competitions/UBC-OCEAN/)** competition.
 - 🩻 [**Disease Prediction from Chest X-rays**](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
-  - Hybrid **CNN + Tabular data** solution using **PyTorch**.  
-  - *Hackathon Finalist*   
+  - **Placed Second** in hackathon organized by Impact Analytics and conducted by Great Learning. 
+  - Hybrid **CNN + Tabular data** solution using **PyTorch**.     
 
 - 🤖 [**LLM Classification Finetuning**](https://www.kaggle.com/code/skarthikguruswamy/intfloat-ml-e5-large-inf)  
   - Fine-tuned **intfloat/e5-large** for text classification.  
