@@ -20,14 +20,20 @@
 - Built [**indusscript.in**](https://indusscript.in/), a **Flutter/Dart Progressive Web App (PWA)** for the *Indus Script Digital Archive*.  
 - Integrated **Firebase OAuth** for authentication and **Firestore** for structured Indus text data storage.  
 - Created a **SQLite → JSON → Firestore** ingestion pipeline using **Python** and **Node.js** via **Google Cloud Storage**.  
-- Demonstrated full-stack expertise in **Flutter**, **Firebase**, and **Cloud-based data pipelines**.  
-
+- Demonstrated full-stack expertise in **Flutter**, **Firebase**, and **Cloud-based data pipelines**.
+ 
 ---
 
 ### 📚 Library Data Analytics — *Roja Muthiah Research Library*
 - Processed and merged large Excel datasets using **pandas**, **openpyxl**, and **itertools**, ensuring data quality and consistency.  
 - Applied **textdistance (Jaccard normalized similarity)** to cluster and identify near-duplicate or related records.  
 - Enriched and synchronized metadata, exporting **cleaned**, **clustered**, and **unclustered** datasets back to Excel.  
+
+---
+
+### 📱 Android library app prototype — *Roja Muthiah Research Library*
+- Designed and prototyped a cross-platform library application using Flutter/Dart tested on Android. 
+- Integrated with a MySQL backend for catalog retrieval and user engagement. 
 
 ---
 
