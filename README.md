@@ -42,8 +42,7 @@
 ---
 
 ## 🧩 **Competitions & Hackathons**
-— Capstone emerged out of participation in **[Kaggle UBC-OCEAN](https://www.kaggle.com/competitions/UBC-OCEAN/)** competition.
-
+- Capstone emerged out of participation in **[Kaggle UBC-OCEAN](https://www.kaggle.com/competitions/UBC-OCEAN/)** competition.
 - 🩻 [**Disease Prediction from Chest X-rays**](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
   - Hybrid **CNN + Tabular data** solution using **PyTorch**.  
   - *Hackathon Finalist*   
