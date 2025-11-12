@@ -24,9 +24,9 @@ Demonstrated end-to-end expertise in Flutter PWA design, Firebase integration, a
 ##    Capstone Project (MTech)
 - 🧠 [Attention-based MIL (UBC-OCEAN)](https://github.com/karthikgs-in/attention-mil-ubc-ocean)  
   Research project | Presented at ICMBNT 2025
-  1️⃣ Private test score matched the top 10 % of the leaderboard.
-  2️⃣ Achieved ~75 % improvement over baseline (Private 0.24 → 0.42).
-  3️⃣ Efficient Lunit DINO ViT + ABMIL pipeline with PyVips tile processing enabled fast training (~1 s/epoch) and significant inference speed-up.
+  - 1️⃣ Private test score matched the top 10 % of the leaderboard.
+  - 2️⃣ Achieved ~75 % improvement over baseline (Private 0.24 → 0.42).
+  - 3️⃣ Efficient Lunit DINO ViT + ABMIL pipeline with PyVips tile processing enabled fast training (~1 s/epoch) and significant inference speed-up.
 
 ##  Competitions/Hackathons
 - 🧬 [Disease Prediction from Chest X-rays](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
