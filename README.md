@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karthik GS  
 M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
 ##    Professional Work
-- Data Science Consultant (Brain Imaging Team), University of Calgary
+- Data Science Consultant (Brain Imaging Team - Remote), University of Calgary
   - Developing course chapters and code for undergraduate Biomedical Data Analytics course and book (Ucalgary BMEN415)
   - Machine learning workflows (data preprocessing, dimensionality reduction, exploration and visualization)
   - Machine learning for tabular biomedical data (supervised classification, regression models, linear, tree and ensemble models)
