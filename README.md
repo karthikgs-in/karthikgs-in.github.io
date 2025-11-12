@@ -2,7 +2,7 @@
 M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
 ##    Professional Work
 - The Indus Script Project (IM77) - Roja Muthiah Research library
-  - Built indusscript.in, a Flutter/Dart Progressive Web App for the Indus script digital archive.
+  - Built [indusscript.in](https://indusscript.in/), a Flutter/Dart Progressive Web App for the Indus script digital archive.
   - Integrated Firebase OAuth for authentication and Firestore for structured Indus text data storage.
   - Created a SQLite → JSON → Firestore data ingestion pipeline using Python and Node.js via Google Cloud Storage.
 Demonstrated end-to-end expertise in Flutter PWA design, Firebase integration, and cloud data workflows.
