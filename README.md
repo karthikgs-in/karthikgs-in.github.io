@@ -47,7 +47,6 @@
 - 🩻 [**Disease Prediction from Chest X-rays**](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
   - Hybrid **CNN + Tabular data** solution using **PyTorch**.  
   - *Hackathon Finalist*   
-  - Submitted **InceptionV3** baseline; final model ranked in the **Top 10%** for balanced accuracy.  
 
 - 🤖 [**LLM Classification Finetuning**](https://www.kaggle.com/code/skarthikguruswamy/intfloat-ml-e5-large-inf)  
   - Fine-tuned **intfloat/e5-large** for text classification.  
