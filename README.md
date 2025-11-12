@@ -6,6 +6,9 @@ M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
 ##  Competitions/Hackathons
 - 🧬 [Disease Prediction from Chest X-rays](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
   Hybrid CNN + Tabular data | PyTorch | Hackathon Finalist
+- Capstone emerged out of participation in Kaggle UBC-OCEAN competition.
+  - A baseline with InceptionV3 was submitted in time for the competition deadline.
+  - Thesis matched top 10% leaderboard on generalization (balanced accuracy). 
 
 ## 🎓 Course Projects
  - Big Data for Machine Learning - practical familiarity with distributed data processing (HDFS, MapReduce, SparkSQL/PySpark), structured storage (Hive), data movement (Sqoop via AWS RDS), and NoSQL operations (MongoDB). Worked hands-on with Databricks notebooks and DBFS for Spark cluster setup, AWS-compatible workflows, and data export.
