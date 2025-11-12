@@ -12,7 +12,7 @@ M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
 - [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning/)
   -  Ranked 74 on leaderboard (As of 12th Nov, 2025)
 -  [Predicting the Beats-per-Minute of Songs](https://www.kaggle.com/competitions/playground-series-s5e9/leaderboard)
-  -  Built a stacked XGBoost Regressor to predict BPM
+    -  Built a stacked XGBoost Regressor to predict BPM
 
 ## 🎓 Course Projects
  - Big Data for Machine Learning - practical familiarity with distributed data processing (HDFS, MapReduce, SparkSQL/PySpark), structured storage (Hive), data movement (Sqoop via AWS RDS), and NoSQL operations (MongoDB). Worked hands-on with Databricks notebooks and DBFS for Spark cluster setup, AWS-compatible workflows, and data export.
