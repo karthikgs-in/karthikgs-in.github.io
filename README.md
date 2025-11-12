@@ -16,6 +16,10 @@ M.Tech in AI & Data Science | 9.89 CGPA | Focus on ML, DL, and GenAI
   - Created a SQLite → JSON → Firestore data ingestion pipeline using Python and Node.js via Google Cloud Storage.
 Demonstrated end-to-end expertise in Flutter PWA design, Firebase integration, and cloud data workflows.
 
+- Library Data Analytics - Roja Muthiah Research Library
+  - Processed and merged Excel library datasets using pandas, openpyxl, and itertools, cleaning and standardizing key fields.
+  - Applied textdistance Jaccard normalized similarity to cluster and identify near-duplicate or related records.
+  - Enriched and synchronized metadata between unprocessed and clustered datasets, then exported cleaned, clustered, and unclustered outputs to Excel.
 ##    Capstone Project (MTech)
 - 🧠 [Attention-based MIL (UBC-OCEAN)](https://github.com/karthikgs-in/attention-mil-ubc-ocean)  
   Research project | Presented at ICMBNT 2025
