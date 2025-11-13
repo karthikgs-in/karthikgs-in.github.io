@@ -82,6 +82,17 @@
 
 ---
 
+### 🌍 Data Visualization — [Zenodo Topic Explorer](https://zenodo-topic-explorer.onrender.com/)
+- Interactive, lightweight **[Flask web app](https://github.com/karthikgs-in/zenodo-topic-explorer)** for exploring the **top 500 most-downloaded datasets** on [zenodo.org](https://zenodo.org/).  
+- Demonstrates topic modelling using **predefined keyword matching**, **TF-IDF + KMeans**, and **SBERT + KMeans**.  
+- Deploys an **interactive treemap visualization** on Render for drill-down dataset exploration.
+
+---
+
+## 🧠⚡ **Gen AI projects**
+
+### 
+
 ## ⚙️ **Tech Stack**
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `PyTorch` • `TensorFlow`  
 `PySpark` • `Databricks` • `Firebase` • `Firestore` • `Flutter` • `Node.js` • `Tableau` • `LaTeX` • `PyVips`  
