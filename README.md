@@ -91,7 +91,12 @@
 
 ## 🧠⚡ **Gen AI projects**
 
-### 
+### [PaleoLocal — Paleogeology Explorer](https://github.com/karthikgs-in/paleolocal)
+- Built a backend API for discovering and summarizing paleogeologic sites.
+- Combines structured geospatial data with **retrieval-augmented generation** (RAG) using **FastAPI**, **Chroma**, **SentenceTransformers**, and **Gemini**.
+
+### CLI RAG chatbot for scanned pdf using Gemini, FAISS, Sentence Transformers and Tesseract. 
+
 
 ## ⚙️ **Tech Stack**
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `PyTorch` • `TensorFlow`  
