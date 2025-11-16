@@ -43,7 +43,7 @@
 *Research Project | Presented at ICMBNT 2025*  
 - 🏆 **Private test score matched the Top 10% of the leaderboard.**  
 - 📈 Achieved **~75% improvement** over baseline *(Private 0.24 → 0.42)*.  
-- ⚙️ Built an **Efficient Lunit DINO ViT + ABMIL** pipeline using **PyVips** for image tiling — enabling ~1 s/epoch training and faster inference.  
+- ⚙️ Built an **Efficient Lunit DINO ViT + ABMIL** pipeline using **PyVips** for image tiling — enabling faster training and inference.  
 
 ---
 
