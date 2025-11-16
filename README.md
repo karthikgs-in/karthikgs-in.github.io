@@ -6,7 +6,7 @@
 
 ## 🧭 **Professional Work**
 
-### 🧠 Data Science Consultant — *Brain Imaging Team (Remote), University of Calgary*
+### 🧠 Data Science Consultant — *Brain Imaging Team (Remote), University of Calgary* (2022-2025)
 - Developing course chapters and **Python code** for the *Biomedical Data Analytics* undergraduate course and textbook (**UCalgary BMEN415**).  
 - Designed and implemented **machine learning workflows**: preprocessing, dimensionality reduction, and exploratory visualization.  
 - Built **ML models** for tabular biomedical data — **supervised classification**, **regression**, **linear**, **tree-based**, and **ensemble models**.  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🏺 The Indus Script Project (IM77) – *Roja Muthiah Research Library*
+### 🏺 The Indus Script Project (IM77) – *Roja Muthiah Research Library* (2020-2021)
 - Built [**indusscript.in**](https://indusscript.in/), a **Flutter/Dart Progressive Web App (PWA)** for the *Indus Script Digital Archive*.  
 - Integrated **Firebase OAuth** for authentication and **Firestore** for structured Indus text data storage.  
 - Created a **SQLite → JSON → Firestore** ingestion pipeline using **Python** and **Node.js** via **Google Cloud Storage**.  
@@ -24,20 +24,20 @@
  
 ---
 
-### 📚 Library Data Analytics — *Roja Muthiah Research Library*
+### 📚 Library Data Analytics — *Roja Muthiah Research Library* (2020)
 - Processed and merged large Excel datasets using **pandas**, **openpyxl**, and **itertools**, ensuring data quality and consistency.  
 - Applied **textdistance (Jaccard normalized similarity)** to cluster and identify near-duplicate or related records.  
 - Enriched and synchronized metadata, exporting **cleaned**, **clustered**, and **unclustered** datasets back to Excel.  
 
 ---
 
-### 📱 Android library app prototype — *Roja Muthiah Research Library*
+### 📱 Android library app prototype — *Roja Muthiah Research Library* (2020-2021)
 - Designed and prototyped a cross-platform library application using Flutter/Dart tested on Android. 
 - Integrated with a MySQL backend for catalog retrieval and user engagement. 
 
 ---
 
-## 🎓 **Capstone Project (M.Tech)**
+## 🎓 **Capstone Project (M.Tech)** (November 2024 - June 2025)
 
 ### 🧬 [Attention-based MIL (UBC-OCEAN)](https://github.com/karthikgs-in/attention-mil-ubc-ocean)  
 *Research Project | Presented at ICMBNT 2025*  
@@ -48,26 +48,26 @@
 ---
 
 ## 🧩 **Competitions & Hackathons**
-- Capstone emerged out of participation in **[Kaggle UBC-OCEAN](https://www.kaggle.com/competitions/UBC-OCEAN/)** competition.
+- Capstone emerged out of participation in **[Kaggle UBC-OCEAN](https://www.kaggle.com/competitions/UBC-OCEAN/)** competition (October 2023).
 - 🩻 [**Disease Prediction from Chest X-rays**](https://github.com/karthikgs-in/chest-xray-multimodal-hackathon)  
   - **Placed Second** in hackathon organized by Impact Analytics and conducted by Great Learning. 
   - Hybrid **CNN Transfer Learning ([ChexNet](https://stanfordmlgroup.github.io/projects/chexnet/)) + Tabular data** solution using **Keras/Tensorflow**.     
 
-- 🤖 [**LLM Classification Finetuning**](https://www.kaggle.com/code/skarthikguruswamy/intfloat-ml-e5-large-inf)  
+- 🤖 [**LLM Classification Finetuning**](https://www.kaggle.com/code/skarthikguruswamy/intfloat-ml-e5-large-inf) (October 2025) 
   - [Fine-tuned](https://www.kaggle.com/code/skarthikguruswamy/intfloat-multilingual-e5-large) the multilingual **[intfloat/e5-large](https://huggingface.co/intfloat/multilingual-e5-large)** for text classification.  
   - Ranked **#74** on Kaggle leaderboard *(as of Nov 2025)*.  
 
-- 🎵 **Playground Series — [Predicting the Beats-per-Minute of Songs](https://www.kaggle.com/code/skarthikguruswamy/notebook7482fb8650)**  
+- 🎵 **Playground Series — [Predicting the Beats-per-Minute of Songs](https://www.kaggle.com/code/skarthikguruswamy/notebook7482fb8650)** (November 2025) 
   - Built a **stacked XGBoost Regressor** to predict BPM from song features.  
 
 ---
 
 ## 📘 **Selected Course Projects (M.Tech)**
 
-### [Sarcasm Detection (Course Project - NLP)](https://github.com/karthikgs-in/sarcasm-detect-nlp-study) 
+### [Sarcasm Detection (NLP)](https://github.com/karthikgs-in/sarcasm-detect-nlp-study) (Winter 2023)
 - Compared LSTM and DistilBERT for sarcasm classification on social media data.
    
-### Chess Piece Classification with Augmentation (Course Project - Deep Learning) 
+### Chess Piece Classification with Augmentation (Deep Learning) (Winter 2023)
 - Implemented CNN classifier; addressed class imbalance via augmentation.
 
 ### 💾 Big Data for Machine Learning  
@@ -97,11 +97,11 @@
 
 ## 🧠⚡ **Gen AI projects**
 
-### [PaleoLocal — Paleogeology Explorer](https://github.com/karthikgs-in/paleolocal)
+### [PaleoLocal — Paleogeology Explorer](https://github.com/karthikgs-in/paleolocal) (Fall 2025)
 - Built a backend API for discovering and summarizing paleogeologic sites.
 - Combines structured geospatial data with **retrieval-augmented generation** (RAG) using **FastAPI**, **Chroma**, **SentenceTransformers**, and **Gemini**.
 
-### CLI RAG chatbot for scanned pdf using Gemini, FAISS, Sentence Transformers and Tesseract. 
+### CLI RAG chatbot for scanned pdf using Gemini, FAISS, Sentence Transformers and Tesseract. (Fall 2025)
 
 
 ## ⚙️ **Tech Stack**
