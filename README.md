@@ -69,8 +69,10 @@
 
 ---
 
-### Chess Piece Classification with Augmentation (Deep Learning) (Winter 2023)
-- Implemented CNN classifier; addressed class imbalance via augmentation.
+### Chess Piece Classification with Augmentation (Deep Learning - Keras/Tensorflow) (Winter 2023)
+- Implemented baseline CNN classifier, explored and addressed overfitting when implementing a VGG19 classifier.
+- Addressed class imbalance via augmentation.
+- Explored model performance tracking using Tensorboard.
 
 ---
 
