@@ -54,7 +54,7 @@
   - Hybrid **CNN Transfer Learning ([ChexNet](https://stanfordmlgroup.github.io/projects/chexnet/)) + Tabular data** solution using **Keras/Tensorflow**.     
 
 - 🤖 [**LLM Classification Finetuning**](https://www.kaggle.com/code/skarthikguruswamy/intfloat-ml-e5-large-inf])  
-  - Fine-tuned **[intfloat/e5-large](https://huggingface.co/intfloat/multilingual-e5-large)** for text classification.  
+  - [Fine-tuned](https://www.kaggle.com/code/skarthikguruswamy/intfloat-multilingual-e5-large) the multilingual **[intfloat/e5-large](https://huggingface.co/intfloat/multilingual-e5-large)** for text classification.  
   - Ranked **#74** on Kaggle leaderboard *(as of Nov 2025)*.  
 
 - 🎵 **Playground Series — [Predicting the Beats-per-Minute of Songs](https://www.kaggle.com/code/skarthikguruswamy/notebook7482fb8650)**  
