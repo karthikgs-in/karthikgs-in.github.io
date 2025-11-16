@@ -66,9 +66,13 @@
 
 ### [Sarcasm Detection (NLP)](https://github.com/karthikgs-in/sarcasm-detect-nlp-study) (Winter 2023)
 - Compared LSTM and DistilBERT for sarcasm classification on social media data.
-   
+
+---
+
 ### Chess Piece Classification with Augmentation (Deep Learning) (Winter 2023)
 - Implemented CNN classifier; addressed class imbalance via augmentation.
+
+---
 
 ### 💾 Big Data for Machine Learning  
 - Gained practical familiarity with **HDFS**, **MapReduce**, **SparkSQL/PySpark**, **Hive**, **Sqoop (AWS RDS)**, and **MongoDB**.  
