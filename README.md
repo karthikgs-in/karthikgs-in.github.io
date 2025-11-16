@@ -1,5 +1,6 @@
 # 👋 Hi, I'm **Karthik GS**  
 **M.Tech in AI & Data Science | CGPA 9.89** | SRMIST'25
+
 **Focus Areas:** *Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI)*  
 
 ---
