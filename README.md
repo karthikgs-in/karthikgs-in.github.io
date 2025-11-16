@@ -10,7 +10,7 @@
 - Developing course chapters and **Python code** for the *Biomedical Data Analytics* undergraduate course and textbook (**UCalgary BMEN415**).  
 - Designed and implemented **machine learning workflows**: preprocessing, dimensionality reduction, and exploratory visualization.  
 - Built **ML models** for tabular biomedical data — **supervised classification**, **regression**, **linear**, **tree-based**, and **ensemble models**.  
-- Introduced **neural network** fundamentals and **deep learning** concepts for biomedical images using **CNNs** and **GANs**.  
+- Introduced **neural network** fundamentals and **deep learning** concepts for biomedical images using **CNNs** and **VAEs**.  
 - Experimented with **Generative AI (ChatGPT)** for automating course planning and assessment design.  
 - Maintained **webpages**, **LaTeX documents** (academic papers, resumes), **bibliography databases**, and **Python scripts** for automation.  
 
