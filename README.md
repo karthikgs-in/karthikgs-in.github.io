@@ -66,10 +66,9 @@
 
 ### [Sarcasm Detection (Course Project - NLP)](https://github.com/karthikgs-in/sarcasm-detect-nlp-study) 
 - Compared LSTM and DistilBERT for sarcasm classification on social media data.
-- 
+   
 ### Chess Piece Classification with Augmentation (Course Project - Deep Learning) 
 - Implemented CNN classifier; addressed class imbalance via augmentation.
-
 
 ### 💾 Big Data for Machine Learning  
 - Gained practical familiarity with **HDFS**, **MapReduce**, **SparkSQL/PySpark**, **Hive**, **Sqoop (AWS RDS)**, and **MongoDB**.  
