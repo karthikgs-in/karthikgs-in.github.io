@@ -75,15 +75,19 @@
 - Explored model performance tracking using Tensorboard.
 
 ---
+
 ### Advanced Deep Learning – FCN + U-Net Lane Segmentation: (Winter 2024)  
   - Studied FCN-ResNet101 and U-Net lane-segmentation pipelines on CamVid using faculty notebooks.    
   - Adapted model heads, dataloaders, and training loops; evaluated outputs using IoU (~0.87 (FCN) → 0.97 (Unet)).    
   - Gained hands-on familiarity with PyTorch semantic-segmentation architectures and inference workflows.  
+
 ---
+
 ### Computer Vision – SpaceNet7 Building Segmentation: (Winter 2024)    
   - Explored classical segmentation (edge detection, K-Means, morphological refinements) on SpaceNet7 satellite tiles.    
   - Finetuned U-Net with EfficientNet backbones using adapted Kaggle notebooks and custom tiling/augmentation.    
   - Built inference workflows and studied challenges of remote-sensing building extraction at scale.  
+
 ---
 
 ### 💾 Big Data for Machine Learning  
