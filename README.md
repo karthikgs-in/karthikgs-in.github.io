@@ -5,12 +5,12 @@
 ---
 
 ## Table of Contents
-- [Professional Work](#🧭-professional-work)
-- [Capstone Project (M.Tech)](#capstone-project-(M.Tech))
-- [Competitions & Hackathons](#competitions-&-hackathons)
-- [Selected Course Projects (M.Tech)](#selected-course-projects-(M.Tech))
-- [Gen AI projects](#gen-ai-projects)
-- [Tech Stack](#tech-stack)
+- [Professional Work](#-professional-work)
+- [Capstone Project (M.Tech)](#-capstone-project-(M.Tech))
+- [Competitions & Hackathons](#-competitions-&-hackathons)
+- [Selected Course Projects (M.Tech)](#-selected-course-projects-(M.Tech))
+- [Gen AI projects](#-gen-ai-projects)
+- [Tech Stack](#-tech-stack)
 
 ---
 
