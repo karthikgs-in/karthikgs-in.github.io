@@ -3,8 +3,6 @@
 **Focus Areas:** *Machine Learning (ML), Deep Learning (DL), and Generative AI (GenAI)*  
 
 ---
-
-## Table of Contents
 - [Professional Work](#-professional-work)
 - [Capstone Project (M.Tech)](#-capstone-project-mtech)
 - [Competitions & Hackathons](#-competitions-hackathons)
