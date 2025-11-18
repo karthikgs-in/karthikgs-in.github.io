@@ -5,7 +5,7 @@
 ---
 - [Professional Work](#-professional-work)
 - [Capstone Project (M.Tech)](#-capstone-project-mtech)
-- [Competitions & Hackathons](#-competitions-hackathons)
+- [Competitions & Hackathons](#-competitions--hackathons)
 - [Selected Course Projects (M.Tech)](#-selected-course-projects-mtech)
 - [Gen AI projects](#-gen-ai-projects)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
