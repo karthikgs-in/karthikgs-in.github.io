@@ -4,6 +4,16 @@
 
 ---
 
+## Table of Contents
+- [Professional Work](#professional-work)
+- [Capstone Project (M.Tech)](#capstone-project-(M.Tech))
+- [Competitions & Hackathons](#competitions-&-hackathons)
+- [Selected Course Projects (M.Tech)](#selected-course-projects-(M.Tech))
+- [Gen AI projects](#gen-ai-projects)
+- [Tech Stack](#tech-stack)
+
+---
+
 ## 🧭 **Professional Work**
 
 ### 🧠 Data Science Consultant — *Brain Imaging Team (Remote), University of Calgary* (2022-2025)
@@ -37,10 +47,10 @@
 
 ---
 
-## 🎓 **Capstone Project (M.Tech)** (November 2024 - June 2025)
+## 🎓 **Capstone Project (M.Tech)** 
 
 ### 🧬 [Attention-based MIL (UBC-OCEAN)](https://github.com/karthikgs-in/attention-mil-ubc-ocean)  
-*Research Project | Presented at ICMBNT 2025*  
+*Research Project (November 2024 - June 2025) | Presented at ICMBNT 2025*  
 - 🏆 **Private test score matched the Top 10% of the leaderboard.**  
 - 📈 Achieved **~75% improvement** over baseline *(Private 0.24 → 0.42)*.  
 - ⚙️ Built an **Efficient Lunit DINO ViT + ABMIL** pipeline using **PyVips** for image tiling — enabling faster training and inference.  
