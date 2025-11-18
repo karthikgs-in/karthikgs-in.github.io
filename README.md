@@ -6,11 +6,11 @@
 
 ## Table of Contents
 - [Professional Work](#-professional-work)
-- [Capstone Project (M.Tech)](#-capstone-project-(M.Tech))
+- [Capstone Project (M.Tech)](#-capstone-project-mtech)
 - [Competitions & Hackathons](#-competitions-&-hackathons)
-- [Selected Course Projects (M.Tech)](#-selected-course-projects-(M.Tech))
+- [Selected Course Projects (M.Tech)](#-selected-course-projects-mtech)
 - [Gen AI projects](#-gen-ai-projects)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
 
 ---
 
